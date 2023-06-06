@@ -1,0 +1,35 @@
+Possibili Data Set:
+    Strutturati:
+                -Informazioni incidenti automobilistici
+                    Fornitore: compagnie assicurative, controlli delle forze dell'ordine.
+                    Identificativo: si potrebbero utilizzare il nome della zona, la via, la data e l'orario.
+                    Attributi: nr_veicoli, zona, via, data, orario, meteo, cause_accertate, nr_persone_coinvolte, nr_feriti, nr_decssi.
+                    Obiettivo: riuscire ad identificare le zone e le fascie orarie con la maggiore intensità e gravità di incidenti
+                                in modo da poter attuare delle politiche di prevenzione e deterrenza tenendo, suggerite dalle cause accertate.
+
+                -Statistiche videogame
+                    Fornitore: Softwarehouse, produttori console da gioco.
+                    Identificativo: Un numero progressivo che identifichi la sessione.
+                    Attributi: Nome_videogame, Categoria_videogame, Softwarehouse, Durata_sessione, Tipologia_sessione
+                    Obiettivo: stabilire la moda del momento per ciò che riguarda i videogame in modo da poter accontentare la  
+                                maggiore fetta di mercato possibile.
+                
+                -Magazzino negozio
+                    Fornitore: Venditore che abbia un magazzino.
+                    Identificativo: Barcode.
+                    Attributi: Data, Barcode, Tipologia_merce, nr_pezzi_venduti, costo_singolo_pezzo, Prezzo_vendita_singolo_pezzo 
+                    Obiettivo: definire il periodo temporale in cui un determinato prodotto è maggiormente richiesto riuscendo a gestire
+                                in maniera più efficiente le scorte in magazzino.
+
+    Non Strutturati:
+                -Tendenze social
+                    Fornitore: Social Network.
+                    Identificando quali sono i file audio più utilizzati del momento ed il tipo di contenuti più riprodotti dagli utenti.
+                    Obiettivo: suggerire all'utente finale i contenuti che vanno per la maggiore in modo da "trattenerlo" il più possibile,
+                                tramite un programma VIP per i creatori di contenuti, vendere queste informazioni per poter così attirare più utenti(follower).
+
+                -Recensioni prodotti/servizi
+                    Fornitori: produttori, erogatori di servizi, siti di sondaggi
+                    Raccogliere i feedback, che possono essere foto, video o testi dei clienti, definendo quali sono i tratti che sono di forza e di debolezza nei prodotti e/o servizi.
+                    Obiettivo: migliorare ciò che viene offerto al cliente utilizzando il feedback ricevuto andando incontro alle esigenze specifiche dell'utilizzatore tipo.
+                                     

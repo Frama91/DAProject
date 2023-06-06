@@ -1,0 +1,60 @@
+Utilizzo Social Media (Instagram, Facebook, LinkedIn...)
+    1. Comunico: informazioni personali, interessi personali, preferenze, orientamenti, poszione, abitudini, progetti ed idee, momenti della vita quotidiana
+       Uso: contenuti creati da altri utenti e/o aziende che mi possono interessare
+
+    2. Uso dei dati: vengono utilizzati per definire le tendenze che interessano la categoria a cui si appartiene, per definire le caratteristiche comuni al gruppo di appartenenza in modo da dare dei "suggerimenti" sui propri interessi.   
+                     Possono essere utilizzati inoltre per fare indagini di mercato, esaminare le reazione a determinati contenuti o per definire i tratti e le caratteristiche di alcuni soggetti.
+
+    3. Dati Sensibili: tralasciando i dati personali che forniamo il resto rientrano in statistiche sulla popolazione.
+
+    4. Comunicazione obbligatoria: si è obbligati per la maggior parte, se si vuole usufruire del servizio gratuito.
+
+    5. Consenso fornito: si.   
+
+Spostamenti con gps (Smartphone, smartwatch, auto con gps...)
+    1. Comunico: informazioni personali, abitudini, luoghi visitati, posti preferiti, persone incontrate, attività svolte
+       Uso: indicazioni sui luoghi intorno a me, orientamento in posti sconosciuti, attività svolte
+
+    2. Uso dei dati: suggerimenti sui posti da visitare, le strade consigliate, aggiornamenti sul traffico e sulle condizioni meteo del luogo in cui ci si trova.   
+
+    3. Dati Sensibili: si.
+
+    4. Comunicazione obbligatoria: si è obbligati per la maggior parte, se si vuole usufruire del servizio gratuito.
+
+    5. Consenso fornito: si.   
+
+Comunicazione attraverso dispositivi(Applicazioni di messaggistica, email, telefonate...)
+    1. Comunico: informazioni personali, comunicazioni personali
+       Uso: scambio di comunicazioni con altre persone
+
+    2. Uso dei dati: riconoscimento delle parole e dei testi, statistiche sugli argomenti di maggiore interesse, rapporti fra persone. 
+
+    3. Dati Sensibili: si.
+
+    4. Comunicazione obbligatoria: si.
+
+    5. Consenso fornito: si.
+
+Acquisti on line (Amazon, Zalando, Wish...)
+    1. Comunico: informazioni personali, residenza, acquisti effettuati, oggetti desiderati, intenzioni su acquisti futuri, 
+       Uso: acquistare comodamente qualsiasi tipo di bene
+
+    2. Uso dei dati: tendenze dei prodotti, informazioni sui prodotti, recensioni sulla qualità, pubblicità.   
+
+    3. Dati Sensibili: si.
+
+    4. Comunicazione obbligatoria: si.
+
+    5. Consenso fornito: si. 
+
+Piattaforme di contenuti multimediali(Spotify, Netflix, Amazone Prime video...)
+    1. Comunico: informazioni personali, preferenze sui contenuti, tempo di utilizzo
+       Uso: riproduzione contenuti multimediali
+
+    2. Uso dei dati: statistiche sull'utilizzo, contenuti preferiti dall'utente in base a diverse caratteristiche.
+
+    3. Dati Sensibili: si.
+
+    4. Comunicazione obbligatoria: si.
+
+    5. Consenso fornito: si.   
