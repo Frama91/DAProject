@@ -1,0 +1,31 @@
+Parte 1
+    Punto 2
+        Titolo : "Andamento nazionale"
+        Fonte: https://github.com/pcm-dpc/COVID-19/tree/master/dati-andamento-nazionale
+        Descrizione : file composto da una sola riga, riguardante la situzione Covid a livello nazionale, al 26/05/2023.
+        Campi : in totale 24, descrivono la situazione ospedaliera, dei positivi, la variazione dei contagi, i test eseguiti e la loro tipologia
+        Classificazione : 3 stelle.
+
+        Titolo : "USA data master covid 19 2023"
+        Fonte: https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv
+        Descrizione : numero dei casi covid e dei decessi in tutte le contee degli USA, molto semplice.
+        Campi : 6 campi, quelli che interessa il covid sono 2 ovvero casi covid e decessi. 
+        Classificazione : 3 stelle.
+
+        Titolo : "New York Citycovid 19 data tracker mar 2023"
+        Fonte: https://www.nytimes.com/interactive/2023/us/new-york-city-new-york-covid-cases.html
+        Descrizione : situazione covid nella sola città di New York con particolare attenzione al lato opedaliero. Vengono raccolte numericamente delle specifiche occorrenze.
+        Campi : 4 campi, per ogni occorrenza viene indicata la frequenze di raccolta dei dati ed il numero di casi nel 2023 e nel periodo precedente 
+        Classificazione : 3 stelle.
+
+        Titolo : "owd covid data "
+        Fonte: https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv
+        Descrizione : per ogni stato paese del mondo, viene presentata la situazione giornaliera dal 2020 fino al 2023. Fra tutti i dataset trovati è quello con maggiori casistiche ma con il maggior numero di dati mancanti.
+        Campi : 67 campi che vanno dai ricoveri, ai casi positivi e decessi fino all'incidenza sulla popolazione per età, condizioni sanitarie etc.
+        Classificazione : 3 stelle.
+
+        Titolo : "Situazionhe covid ISS"
+        Fonte: https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
+        Descrizione : il file riguarda la situazione italiana. Viene aggiornato quotidianamente, si compone di disersi fogli con dei titoli esplicativi del contenuto.
+        Campi : i campi variano in base al foglio che viene consultato, in generale riguardano i casi, i decessi, i ricoveri e l'incidenze in base all'età ed alla condizione clinica.
+        Classificazione : 4 stelle.       
