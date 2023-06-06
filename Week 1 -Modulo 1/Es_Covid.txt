@@ -28,4 +28,10 @@ Parte 1
         Fonte: https://www.epicentro.iss.it/coronavirus/sars-cov-2-sorveglianza-dati
         Descrizione : il file riguarda la situazione italiana. Viene aggiornato quotidianamente, si compone di disersi fogli con dei titoli esplicativi del contenuto.
         Campi : i campi variano in base al foglio che viene consultato, in generale riguardano i casi, i decessi, i ricoveri e l'incidenze in base all'età ed alla condizione clinica.
-        Classificazione : 4 stelle.       
+        Classificazione : 4 stelle.     
+        
+        
+        
+        Inserisci data e ora
+        06/06/2023--12.00
+        TAbella con le fonti come righe ed attributi indicati
