@@ -1,0 +1,5 @@
+Come caso di studio sono stati presi in considerazione alcuni aspetti dell'organizzazione scolastica di un singolo istituto.
+Nel database sono presenti le informazioni che rigurdano gli alunni, i professori, le classi e gli indirizzi.
+Sono state create delle relazioni che permettano di definire le valutazioni degli alunni, le classe frequentata, le classi in cui insegnano i professori e
+l'indirizzo di ogni classe.
+Il database è stato riempito con dati che permettano ad ogni interrogazione di ottenere dei risultati.
