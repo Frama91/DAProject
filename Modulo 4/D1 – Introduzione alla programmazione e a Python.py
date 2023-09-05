@@ -18,7 +18,7 @@ print("La somma delle variabili è: " + str(somma_studenti))
 
 ## 5.
 
-lista_numeri = [1,2,3,4,5]
+lista_numeri = [0,1,2,3,4,5]
 
 print("La lista de numeri è: " + str(lista_numeri))
 
