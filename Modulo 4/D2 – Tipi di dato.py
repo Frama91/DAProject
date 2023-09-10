@@ -1,4 +1,3 @@
-
 ## 1.
 nome_scuola = "Epicode"
 
@@ -37,7 +36,7 @@ Efficenza = int(input())
 Percorrenza = Bn_serbatorio * Efficenza
 print("Con questa andatura si possono percorrere ancora " + str(Percorrenza) + " Kilometri.\nInserire adesso il costo di un litro di benzina:")
 Costo = float(input())
-Costo = round(Costo * 100,2)
+Costo = round((100/Efficenza) * Costo,2)
 print("Per 100 km, il costo totale della benzina è " + str(Costo) + " euro")
 
 ## 7.
