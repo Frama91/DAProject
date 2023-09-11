@@ -1,3 +1,4 @@
+"""
 ## 1.
 nome_scuola = "Epicode"
 
@@ -138,3 +139,12 @@ if Fine.__len__() > 0:
     for el in Fine:
         print(str(el))
 else: print("Non esistono aziende che soddisfano la richiesta")
+"""
+
+pt_4_N = input("Inserire, di seguito, le N potenze di 2 che si desiderano calcolare: ")
+fr_4 = ""
+pt_4 = 0
+while pt_4 <= pt_4_N:
+    fr_4 = (fr_4 + str(2**pt_4) + " - ")
+    pt_4 += 1
+print( "La lista delle N potenze di 2 è:\n" + fr_4[0:-2])
