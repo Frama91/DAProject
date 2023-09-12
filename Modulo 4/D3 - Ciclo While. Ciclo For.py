@@ -8,11 +8,11 @@ while x < len(nome_scuola):
 
 ## 2.
 numero = 0
-frase_2 = ""
+frase_2 = []
 while numero < 21:
-    frase_2=  (frase_2 + str(numero) + " - ")
+    frase_2.append(str(numero))
     numero += 1
-print(frase_2[0:-2])
+print(" - ".join(frase_2))
 
 ## 3.
 fr_3 = ""
@@ -40,9 +40,9 @@ else: print("Le liste hanno lunghezza differente")
 
 ## 5 parte 2
 studenti_2 = ["Alex", "Bob", "Cindy", "Dan", "Emma", "Faith","Grace", "Henry"]
-corsi_2 = ["Cybersecurity", "Data Analyst", "Backend", "Frontend", "Data Analyst", "Backend", "Frontend"]
-if corsi_2[-1] != "Cybersecurity" and len(studenti_2) != len(corsi_2):
-    corsi_2.append("Cybersecurity")
+corsi_2 = ["Cybersecurity", "Data Analyst", "Backend", "Frontend", "Data Analyst", "Backend"]
+corsi_2.append("Frontend")
+corsi_2.append("Cybersecurity")
 if len(studenti_2) == len(corsi_2):
     print("Le liste hanno la stessa lunghezze.\nEcco la lista corsi:\n" + str(corsi_2))
 
@@ -57,8 +57,8 @@ print("Il risultato dell'elaborazione è :\n" + fr_6)
 
 
 ## 7.
-n_7 = int(input("Inserire il numero di cui calcolare i fattoriali: "))
-lista_fattori = []
+n_7 = int(input("Inserire il numero di cui calcolare i fattori: "))
+lista_fattori = [1]
 fattore = 2
 while n_7 != 1:
     if n_7%fattore == 0:
