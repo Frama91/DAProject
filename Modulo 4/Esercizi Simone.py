@@ -113,7 +113,7 @@ word = parole_giocabili[word_ind]
 player = list("_" * len(word))
 while True:
     try:
-        tent = int(input("Inserisci il numero di errori da poter fare. (MAX 10)\n "))
+        tent = int(input("Inserisci il numero di errori da poter fare. (MAX 10)\n"))
     except: print("Per indicare i tentativi serve un numero =\ ")
     else: 
         if tent > 0 and tent <=10: break 
@@ -132,13 +132,15 @@ while True:                                                                     
             else:print("Il carattere non è una lettera, riprova =\ ")
         elif lett.upper() == "HINT":
             hint_count += 1
-            for el in word:
-                if el not in (player) and hint_count < 3:
-                    print ("Prova con la lettera " + el,end="\n")
-                    break 
-                else: 
-                    print("Hai esaurito entrambi i tentativi: sei da solo adesso :X")
-                    break
+            print(str(hint_count))
+            if hint_count < 3:               
+                for el in word:
+                    if el not in (player):
+                        print ("Prova con la lettera " + el,end="\n")
+                        break 
+            else: 
+                print("Hai esaurito entrambi i tentativi: sei da solo adesso :X")
+                break
         else: print("Hai inserito troppi caratteri, riprova =\ ")
     for el in word:
         if lett.upper() == el.upper(): 
